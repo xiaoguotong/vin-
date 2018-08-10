@@ -1,0 +1,16 @@
+{
+  "name": "vin-keyboard",
+  "version": "1.0.0",
+  "description": "a vin keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vin",
+    "keyboard",
+    "vin码虚拟键盘"
+  ],
+  "author": "zvzk",
+  "license": "ISC"
+}
